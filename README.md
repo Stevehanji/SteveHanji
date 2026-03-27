@@ -26,8 +26,28 @@ My name is Chan. I'm studying **Applied Mathematics** in Ton Duc Thang Universit
 </a>
 </div>
 
-<a href="https://github.com/Stevehanji/LoveEnglish">
-    Love English
+<br>
 
-  <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" /> -->
+<div style = "display: flex">
+<a href="https://github.com/Stevehanji/LoveEnglish" style = "margin-right:10px">
+
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Stevehanji&repo=LoveEnglish&theme=radical" />
 </a>   
+
+<a href="https://github.com/Stevehanji/Nhat_Ky_Bao_Ve_Moi_Truong">
+
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Stevehanji&repo=Nhat_Ky_Bao_Ve_Moi_Truong&theme=merko" />
+</a>   
+</div>
+
+<div style = "display: flex">
+<a href="https://github.com/Stevehanji/MathOf500_FrontEnd" style = "margin-right:10px">
+
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Stevehanji&repo=MathOf500_FrontEnd&theme=gruvbox" />
+</a>   
+
+<a href="https://github.com/Stevehanji/MathOf500_Backend">
+
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Stevehanji&repo=MathOf500_Backend&theme=cobalt" />
+</a>   
+</div>
